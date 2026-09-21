@@ -1,0 +1,6 @@
+delay_bucket,num_orders,avg_review_score
+"On Time or Early",89944,4.29
+"1-3 Days Late",1856,3.29
+"4-7 Days Late",1756,2.10
+"8-14 Days Late",1452,1.68
+"15+ Days Late",1345,1.72
