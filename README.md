@@ -56,7 +56,7 @@ CSVs were loaded into MySQL via `LOAD DATA INFILE`, which failed silently across
 
 ## Dashboard
 
-[Tableau Public link — add once published]
+Tableau Public link — https://public.tableau.com/app/profile/pratyush.singh3294/viz/OlistCustomerDeliveryAnalytics/OlistE-CommerceAnalyticsCustomerBehaviorDeliveryPerformance
 
 ## Files
 
